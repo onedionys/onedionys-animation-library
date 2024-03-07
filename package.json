@@ -1,0 +1,41 @@
+{
+  "name": "onedionys-animation-library",
+  "version": "1.0.0",
+  "description": "One Dionys (Animation Library) - A collection of animation functions or effects to add interactivity to DOM elements.",
+  "main": "src/animation.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-animation-library.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "animation-library"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-animation-library/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-animation-library#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-dom-manipulation-helpers": "^1.1.0",
+    "onedionys-form-handling-utilities": "^1.0.0",
+    "onedionys-routing-library": "^1.0.0",
+    "onedionys-state-management": "^1.0.0",
+    "onedionys-template-engine": "^1.0.0"
+  }
+}
