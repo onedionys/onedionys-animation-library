@@ -1,6 +1,6 @@
 {
   "name": "onedionys-animation-library",
-  "version": "1.0.1",
+  "version": "4.0.0",
   "description": "One Dionys (Animation Library) - A collection of animation functions or effects to add interactivity to DOM elements.",
   "main": "src/animation.js",
   "directories": {
