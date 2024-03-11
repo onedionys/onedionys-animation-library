@@ -51,6 +51,7 @@ AnimationLibrary.fadeOut(element, 1000)
 ## 📆 Release Date
 
 * v1.0.0 : 07 March 2024
+* v1.0.1 : 11 March 2024
 
 ## 🧑 Author
 
